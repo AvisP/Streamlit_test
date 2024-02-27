@@ -20,4 +20,4 @@ llamaindex-py-client==0.1.13
 tokenizers
 torch==2.2.1
 torchaudio==2.2.1
-torchvision==0.17.0
+torchvision==0.17.1
